@@ -1,0 +1,16 @@
+Lista de material para armar un pcb completo:
+10 sensores sct013 de 30A-1v
+3 sensores zmpt101b
+3 transformadores de 110v a 12v
+1 compuerta logica xor (con su base o zocalo)
+4 CI Lm324 (con sus bases zif o zocalos en caso de ser necesarios)
+14 bloques de 2 terminales (borneras verdes)
+2 tiras de pines macho para ensamblar el arduino mega al pcb.
+3 resistencias 100k
+10 resistencias de 1k
+10 resistencias de 39k
+10 resistencias de 10k
+26 diodos zener de 5v
+capacitores : 4 de 47pf, 1 de 100 nf, 1 de 470uf
+1 arduino mega.
+1 modulo esp01 (wifi)
