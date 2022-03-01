@@ -1,0 +1,109 @@
+#include "project.h"
+#include "stdio.h"
+#include "math.h"
+#include "stdlib.h"
+int32 enteros[6];
+float32 voltajes[6];
+float flujo_calor [6];
+char Text[20];
+int canal;
+int main(void)
+{
+ CyGlobalIntEnable;
+ UART_Start();
+ ADC_Start();
+ AMux_Start();
+
+ for(;;)
+ {
+ 
+AMux_FastSelect(0);
+ ADC_StartConvert();
+ ADC_IsEndConversion(ADC_WAIT_FOR_RESULT);
+ enteros[0]=ADC_GetResult32();
+ ADC_StopConvert();
+ voltajes[0] = ADC_CountsTo_Volts(enteros[0]);
+ flujo_calor[0] = ((voltajes[0])/0.00000144);
+ sprintf(Text,"%.6f",flujo_calor[0]);
+ UART_PutString("A0=");
+ UART_PutChar(10);
+ UART_PutString(Text);
+ UART_PutChar(10);
+ CyDelay(2000);
+
+
+ AMux_FastSelect(1);
+ ADC_StartConvert();
+ ADC_IsEndConversion(ADC_WAIT_FOR_RESULT);
+ enteros[1]=ADC_GetResult32();
+ ADC_StopConvert();
+ voltajes[1] = ADC_CountsTo_Volts(enteros[1]);
+ flujo_calor[1] = ((voltajes[1])/0.00000144);
+ sprintf(Text,"%.6f",flujo_calor[1]);
+ UART_PutString("A1=");
+ UART_PutChar(10);
+UART_PutString(Text);
+ UART_PutChar(10);
+ CyDelay(2000);
+
+
+ AMux_FastSelect(2);
+ ADC_StartConvert();
+ ADC_IsEndConversion(ADC_WAIT_FOR_RESULT);
+ enteros[2]=ADC_GetResult32();
+ ADC_StopConvert();
+ voltajes[2] = ADC_CountsTo_Volts(enteros[2]);
+ flujo_calor[2] = ((voltajes[2])/0.00000144);
+ sprintf(Text,"%.6f",flujo_calor[2]);
+ UART_PutString("A2=");
+ UART_PutChar(10);
+ UART_PutString(Text);
+ UART_PutChar(10);
+ CyDelay(2000);
+
+
+ AMux_FastSelect(3);
+ ADC_StartConvert();
+ ADC_IsEndConversion(ADC_WAIT_FOR_RESULT);
+ enteros[3]=ADC_GetResult32();
+ ADC_StopConvert();
+ voltajes[3] = ADC_CountsTo_Volts(enteros[3]);
+ flujo_calor[3] = ((voltajes[3])/0.00000144);
+ sprintf(Text,"%.6f",flujo_calor[3]);
+ UART_PutString("A3=");
+ UART_PutChar(10);
+ UART_PutString(Text);
+ UART_PutChar(10);
+ CyDelay(2000);
+
+
+ AMux_FastSelect(4);
+ ADC_StartConvert();
+ ADC_IsEndConversion(ADC_WAIT_FOR_RESULT);
+ enteros[4]=ADC_GetResult32();
+ ADC_StopConvert();
+ voltajes[4] = ADC_CountsTo_Volts(enteros[4]);
+ flujo_calor[4] = ((voltajes[4])/0.00000144);
+ sprintf(Text,"%.6f",flujo_calor[4]);
+ UART_PutString("A4=");
+ UART_PutChar(10);
+ UART_PutString(Text);
+ UART_PutChar(10);
+ CyDelay(2000);
+
+AMux_FastSelect(5);
+ ADC_StartConvert();
+ ADC_IsEndConversion(ADC_WAIT_FOR_RESULT);
+ enteros[5]=ADC_GetResult32();
+ ADC_StopConvert();
+ voltajes[5] = ADC_CountsTo_Volts(enteros[5]);
+ flujo_calor[5] = ((voltajes[5])/0.00000144);
+ sprintf(Text,"%.6f",flujo_calor[5]);
+ UART_PutString("A5=");
+ UART_PutChar(10);
+ UART_PutString(Text);
+ UART_PutChar(10);
+ CyDelay(2000);
+ }
+}
+/* [] END OF FILE */

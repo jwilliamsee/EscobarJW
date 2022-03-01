@@ -1,0 +1,32 @@
+# from wifi import do_connect
+import time
+# import network
+from funcion import *
+from wifi import *
+from machine import UART
+from machine import ADC
+from machine import Pin
+
+red = 'cb61c0'
+clave = '280865312'
+
+unique_id = '66f5d0f0-5de2-11eb-9c3f-d1ead9980bc3'
+token = 'tDzaQ1x1jJoWdK5lOrtg'
+
+label  = 'Flujo de calor'
+
+
+do_connect(red,clave)
+
+
+while True:
+
+	adc = ADC(Pin(32))
+	adc.atten(ADC.ATTN_11DB)
+	voltaje=adc.read()
+	
+	resultado = ((3.3*voltaje/1024)/1000000)/0.00000144
+	valor = resultado
+	data  = {label: valor}
+	publish_thingsboard(red,clave,token, unique_id,data) 
+	time.sleep(5) 

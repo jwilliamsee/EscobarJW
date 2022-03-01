@@ -1,0 +1,13 @@
+Códigos del ESP32 para comunicación serial:
+Main.py
+from machine import UART
+import time
+uart = UART(2, 57600)
+uart.init(57600 ,bits=8, parity=None, stop=1)
+while True:
+ uart.any()
+ uart.read()
+sleep (2)
+print (uart.read())
+from time import sleep
+
