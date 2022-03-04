@@ -15,7 +15,7 @@
 
 ## En la carpeta "Proyecto_Residencia_Profesional" se encuentra el reporte de residencia que entregué al Instituto Tecnológico de Ensenada (ITE) y las evaluacioenes de la misma, por el Dr. Barrios, mi jefe inmediato durante la residencia, también se encuentra la carta de término de residencia emitida por el Instituto de Energías Renovables (IER-UNAM).
 
-## En la carpeta "Proyecto_ServicioSocial" se encuentra una memoria (archivos de cálculos) de trabajo con los cálculos de carga térmica de la planta baja del centro de información del Instituto Tecnológico de Ensenada, un reporte de lo que realicé durante el servicio social para sumar horas y finalemente concluir con lo propuesto. Lo realizado está relacionado con **Refrigeración y aire acondicionado** y **Transferencia de calor**.
+## En la carpeta "Proyecto_ServicioSocial" se encuentra una memoria (archivos de cálculos) de trabajo con los cálculos de carga térmica de la planta baja del centro de información del Instituto Tecnológico de Ensenada, un reporte de lo que realicé durante el servicio social para sumar horas y finalmente concluir con lo propuesto. Lo realizado está relacionado con **Refrigeración y aire acondicionado** y **Transferencia de calor**.
 
 ## En la carpeta "Trabajo-IER-UNAM" se encuentran los informes que entregué durante dos periodos de trabajo, con aprovación de los encargados del proyecto general, las actividades son las que se presentan arriba, fueron actividades con seguimiento a lo que realicé en la residencia profesional.
 
