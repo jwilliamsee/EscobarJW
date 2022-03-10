@@ -19,4 +19,29 @@
 
 ## En la carpeta "Trabajo-IER-UNAM" se encuentran los informes que entregué durante dos periodos de trabajo, con aprovación de los encargados del proyecto general, las actividades son las que se presentan arriba, fueron actividades con seguimiento a lo que realicé en la residencia profesional.
 
+# Algunos diseños CAD, diagramas electrónicos y Diseño PCB.
+#### Diseño de máquina para serigrafía
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa1.PNG)
+------------
+#### Diagrama de conexión electrónica de dispositivo medidor de iluminación, nivel sonoro, etc.
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Esquema1.PNG)
+------------
+#### Pictograma de conexión (conexión animada)
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Pictograma.PNG)
+------------
+#### Diseño de PCB del dispositivo Factor de potencia
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
+------------
+#### Diseño CAD de la carcasa del dispositivo H2O
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/BaseCarcasa.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/BaseMediaCarcasa.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/CarcasaH2O.PNG)
+------------
+#### Diagrama electrónico del dispositivo H2O
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/Conexi%C3%B3n_8S%20H2O.PNG)
+------------
 
