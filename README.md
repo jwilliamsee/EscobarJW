@@ -44,4 +44,5 @@
 #### Diagrama electrónico del dispositivo H2O
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/Conexi%C3%B3n_8S%20H2O.PNG)
 ------------
-
+#### Planos de la carcasa del dispositivo H20
+https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/CAD/BASE_CARCASA_H2O_PLANO.PDF
