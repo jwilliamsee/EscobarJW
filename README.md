@@ -1,5 +1,5 @@
 # EscobarJW
-### Información sobre mi experiencia profesional y académica.
+### Información.
 
 ## En la carpeta "Certificado-Ingenieria", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial. También se encuentran dos cartas de recomendación.
 ### El título está en trámite.
