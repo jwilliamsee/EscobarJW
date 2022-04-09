@@ -1,7 +1,7 @@
 # EscobarJW
 ### Información.
 
-## En la carpeta "Certificado-Ingenieria", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial. También se encuentran dos cartas de recomendación.
+## En la carpeta "Certificado-Ingenieria", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial.
 ### El título está en trámite.
 
 ## En la carpeta "LoQueHiceEn-IER-UNAM" se encuentran los dispositivos electrónicos en los que trabajé en el IER-UNAM, están en etapa de desarrollo, participé especifícamente en dos dispositivos: en el de **SensorH2O1**, en el de **DTHIS** repliqué un segundo dispositivo, el de **TemplateSADs** lo realicé desde cero, el de **WindSensor** también lo empecé desde cero y en el de "FactorDePotencia" también participé actualizando algunas cosas, hay otros dispositivos que se trabajaron pero ya no están en mi dominio.
