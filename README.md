@@ -2,7 +2,6 @@
 ### Información.
 
 ## En la carpeta "Certificado-Ingenieria", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial.
-### El título está en trámite.
 
 ## En la carpeta "LoQueHiceEn-IER-UNAM" se encuentran los dispositivos electrónicos en los que trabajé en el IER-UNAM, están en etapa de desarrollo, participé especifícamente en dos dispositivos: en el de **SensorH2O1**, en el de **DTHIS** repliqué un segundo dispositivo, el de **TemplateSADs** lo realicé desde cero, el de **WindSensor** también lo empecé desde cero y en el de "FactorDePotencia" también participé actualizando algunas cosas, hay otros dispositivos que se trabajaron pero ya no están en mi dominio.
 
@@ -15,7 +14,7 @@
 
 ## En la carpeta "Proyecto_Residencia_Profesional" se encuentra el reporte de residencia que entregué al Instituto Tecnológico de Ensenada (ITE) y las evaluacioenes de la misma, por el Dr. Barrios, mi jefe inmediato durante la residencia, también se encuentra la carta de término de residencia emitida por el Instituto de Energías Renovables (IER-UNAM).
 
-## En la carpeta "Proyecto_ServicioSocial" se encuentra una memoria (archivos de cálculos) de trabajo con los cálculos de carga térmica de la planta baja del centro de información del Instituto Tecnológico de Ensenada, un reporte de lo que realicé durante el servicio social para sumar horas y finalmente concluir con lo propuesto. Lo realizado está relacionado con **Refrigeración y aire acondicionado** y **Transferencia de calor**.
+## En la carpeta "Proyecto_ServicioSocial" se encuentra una memoria (archivos de cálculos) de trabajo con los cálculos de carga térmica de la planta baja del centro de información del Instituto Tecnológico de Ensenada, un reporte de lo que realicé durante el servicio social para sumar horas y finalmente concluir con lo propuesto. Lo realizado está relacionado con **Refrigeración, aire acondicionado** y **Transferencia de calor**.
 
 ## En la carpeta "Trabajo-IER-UNAM" se encuentran los informes que entregué durante dos periodos de trabajo, con aprovación de los encargados del proyecto general, las actividades son las que se presentan arriba, fueron actividades con seguimiento a lo que realicé en la residencia profesional.
 
