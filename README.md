@@ -13,6 +13,7 @@
 - [x] Instructivos para documentar sus avances en esta plataforma en forma de repositorio por cada dispositivo desde Windows y Linux.
 - [x] Apoyo de todo el proceso para documentar, con videos del paso a paso.
 [**Serie de videos hechos por mi**](https://github.com/jwilliamsee/DocumentarGithub/blob/main/VideosDocGit/LinksDeVideos.md)
+
 **Cabe mencionar que en cada dispositivo participó más de una persona, yo participé en todos para verificar que se aplicara lo que propuse y apoyar en las dudas de como documentar con el estándar elegido.**
 - [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también le dí seguimiento al desarrollo del dispositivo H2O en ese dispositivo 
 ------------
