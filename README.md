@@ -1,9 +1,22 @@
 # EscobarJW
 ### Información.
 
-## En la carpeta "Certificado-Ingenieria", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial.
+#### En la carpeta "**Certificado-Ingeniería**", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial.
+------------
+#### En la carpeta "**LoQueHiceEn-IER-UNAM**", se encuentran 7 dispositivos electrónicos en los que participé durante la residencia profesional, lo planteado inicialmente era establecer una forma de documentar los dispositivos electrónicos que se tenían avanzados, con un estándar de documentación que se adaptara a etapas de desarrollo enfocado a documentar todo lo que se había hecho y faltaba por hacer en cada uno. El problema a solucionar era que cuando otros estudiantes llegaban para hacer residencias y avanzaban en alguno de los dispositivos, no dejaban documentación completa de lo que avanzaban o no entregaban algo de lo que hacían.
+	Solución y aportes propuestos por mi:
+- [x] Investigación y elección del estándar de documentación para los     dispositivos electrónicos del IER-UNAM.
+- [x] Elección de la forma de documentación adaptada al estándar "Open-Know-How".
+[**Open-Know-How**](https://www.internetofproduction.org/open-know-how)
+- [x] Gestionar la documentación en todos los dispositvos hechos y por hacer para el control y cumplimiento de cada avance hechos por otros compañeros.
+- [x] Apliqué el estándar de documentación a un dispositivo como prueba y posteriormente se usó como ejemplo para que los otros compañeros lo aplicaran al dispositivo que estaban desarrollando.
+- [x] Instructivos para documentar sus avances en esta plataforma en forma de repositorio por cada dispositivo desde Windows y Linux.
+- [x] Apoyo de todo el proceso para documentar, con videos del paso a paso.
+[**Serie de videos hechos por mi**](https://github.com/jwilliamsee/DocumentarGithub/blob/main/VideosDocGit/LinksDeVideos.md)
+**Cabe mencionar que en cada dispositivo participó más de una persona, yo participé en todos para verificar que se aplicara lo que propuse y apoyar en las dudas de como documentar con el estándar elegido.**
+- [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también le dí seguimiento al desarrollo del dispositivo H2O en ese dispositivo 
+------------
 
-## En la carpeta "LoQueHiceEn-IER-UNAM" se encuentran los dispositivos electrónicos en los que trabajé en el IER-UNAM, están en etapa de desarrollo, participé especifícamente en dos dispositivos: en el de **SensorH2O1**, en el de **DTHIS** repliqué un segundo dispositivo, el de **TemplateSADs** lo realicé desde cero, el de **WindSensor** también lo empecé desde cero y en el de "FactorDePotencia" también participé actualizando algunas cosas, hay otros dispositivos que se trabajaron pero ya no están en mi dominio.
 
 ## En la misma carpeta pero en la carpeta interna de **sensor_flujo_calor**, en la de **abb_energia** y en todos los demás repositorios que están ahí, se aplicaron el estándar que propuse de documentación (Open-Know-How), previamente investigado para el desarrollo de prototipos electrónicos.
 
