@@ -5,7 +5,7 @@
 ------------
 #### En la carpeta "**LoQueHiceEn-IER-UNAM**", se encuentran 7 dispositivos electrónicos en los que participé durante la residencia profesional, lo planteado inicialmente era establecer una forma de documentar los dispositivos electrónicos que se tenían avanzados, con un estándar de documentación que se adaptara a etapas de desarrollo enfocado a documentar todo lo que se había hecho y faltaba por hacer en cada uno. El problema a solucionar era que cuando otros estudiantes llegaban para hacer residencias y avanzaban en alguno de los dispositivos, no dejaban documentación completa de lo que avanzaban o no entregaban algo de lo que hacían.
 	Solución y aportes propuestos por mi:
-- [x] Investigación y elección del estándar de documentación para los     dispositivos electrónicos del IER-UNAM.
+- [x] Investigación y elección del estándar de documentación para los dispositivos electrónicos del IER-UNAM.
 - [x] Elección de la forma de documentación adaptada al estándar "Open-Know-How".
 [**Open-Know-How**](https://www.internetofproduction.org/open-know-how)
 - [x] Gestionar la documentación en todos los dispositvos hechos y por hacer para el control y cumplimiento de cada avance hechos por otros compañeros.
@@ -15,9 +15,15 @@
 [**Serie de videos hechos por mi**](https://github.com/jwilliamsee/DocumentarGithub/blob/main/VideosDocGit/LinksDeVideos.md)
 
 **Cabe mencionar que en cada dispositivo participó más de una persona, yo participé en todos para verificar que se aplicara lo que propuse y apoyar en las dudas de como documentar con el estándar elegido.**
-- [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también le dí seguimiento al desarrollo del dispositivo H2O en ese dispositivo 
+- [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también me ocupaba en el desarrollo del dispositivo H2O, sólo se tenía el código o programación. [**Dispositivo H2O**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/SensorH2O1)
+- [x] Diseñé la carcasa del dispositivo H2O, diseñé la placa PCB, hice el diagrama de conexión, diagrama de conexión animada (pictograma), modifiqué la programación, generé archivos para impresión en 3D, instructivo de uso del dispositivo, instructivo de ensamble, pruebas del funcionamiento y los archivos entregables.
 ------------
-
+##### Durante el tiempo que trabajé en el **Instituto de Energías Renovables** (IER-UNAM), posterior a los 6 meses que estuve en residencia profesional, seguí trabajando en los dispositivos, hasta liberar documentación necesaria en cada uno, modificar archivos trabajados por otros compañeros, pruebas de mando a distancia con una plataforma Internet Of Things (IOT), entre otras cosas.
+#### A continuación una breve descripción de cada dispositivo en los que apoyé y lo que aporté:
+	Dispositivo DTHIS: Mide Temperatura, Humedad, Iluminación y Sonido (nivel sonoro).
+- Gestión de la documentación.
+- Diseño de PCB como complemento del existente.
+- Rediseño del diagrama de conexión
 
 ## En la misma carpeta pero en la carpeta interna de **sensor_flujo_calor**, en la de **abb_energia** y en todos los demás repositorios que están ahí, se aplicaron el estándar que propuse de documentación (Open-Know-How), previamente investigado para el desarrollo de prototipos electrónicos.
 
