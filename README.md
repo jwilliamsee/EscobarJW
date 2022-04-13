@@ -18,12 +18,40 @@
 - [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también me ocupaba en el desarrollo del dispositivo H2O, sólo se tenía el código o programación. [**Dispositivo H2O**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/SensorH2O1)
 - [x] Diseñé la carcasa del dispositivo H2O, diseñé la placa PCB, hice el diagrama de conexión, diagrama de conexión animada (pictograma), modifiqué la programación, generé archivos para impresión en 3D, instructivo de uso del dispositivo, instructivo de ensamble, pruebas del funcionamiento y los archivos entregables.
 ------------
+## Trabajo en el IER-UNAM
 ##### Durante el tiempo que trabajé en el **Instituto de Energías Renovables** (IER-UNAM), posterior a los 6 meses que estuve en residencia profesional, seguí trabajando en los dispositivos, hasta liberar documentación necesaria en cada uno, modificar archivos trabajados por otros compañeros, pruebas de mando a distancia con una plataforma Internet Of Things (IOT), entre otras cosas.
 #### A continuación una breve descripción de cada dispositivo en los que apoyé y lo que aporté:
 	Dispositivo DTHIS: Mide Temperatura, Humedad, Iluminación y Sonido (nivel sonoro).
+
+**Aportes:**
 - Gestión de la documentación.
 - Diseño de PCB como complemento del existente.
-- Rediseño del diagrama de conexión
+- Rediseño del diagrama de conexión.
+- Réplica de un segundo dispositivo DTHIS para comprobar que ya era factible y viable su reprodución (funcionó correctamente el segundo).
+------------
+	Dispositivo FactorDePotencia: Mide Factor de potencia y consumo de energía eléctrica.
+
+**Aportes:**
+- Avances en la gestión de documentación.
+- Diseño CAD de la carcasa del dispositivo.
+- Rediseño del PCB existente.
+- Diseño del diagrama de conexión.
+------------
+	Repositorio TemplateSADs: Plantilla para usarlo en la documentación de otros dispositivos.
+
+**Aportes:**
+###### Formato elegido, previamente investigado para ser adaptado a otros dispositivos.
+------------
+	 Dispositivo WindSensor: Mide la rapidez del viento.
+
+**Aportes:**
+- Investigación de la implementación del sensor elegido.
+- Modificar la programación para lectura del viento (ya existía un reporte trabajado).
+- Diagrama de conexión.
+- Pruebas de su funcionamiento bajo condiciones necesarias de operación.
+- Montaje de banco de prueba básico.
+
+
 
 ## En la misma carpeta pero en la carpeta interna de **sensor_flujo_calor**, en la de **abb_energia** y en todos los demás repositorios que están ahí, se aplicaron el estándar que propuse de documentación (Open-Know-How), previamente investigado para el desarrollo de prototipos electrónicos.
 
