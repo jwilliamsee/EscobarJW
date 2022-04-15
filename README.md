@@ -1,5 +1,5 @@
 # EscobarJW
-Todo el texto no está justificado porque el formato Makdown usado en esta platoforma no lo permite. 
+Todo el texto no está justificado porque el formato Markdown usado en esta platoforma no lo permite. 
 ### Información.
 
 #### En la carpeta "**Certificado-Ingeniería**", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial.
