@@ -22,6 +22,7 @@
 ##### Durante el tiempo que trabajé en el **Instituto de Energías Renovables** (IER-UNAM), posterior a los 6 meses que estuve en residencia profesional, seguí trabajando en los dispositivos, hasta liberar documentación necesaria en cada uno, modificar archivos trabajados por otros compañeros, pruebas de mando a distancia con una plataforma Internet Of Things (IOT), entre otras cosas.
 #### A continuación una breve descripción de cada dispositivo en los que apoyé y lo que aporté:
 	Dispositivo DTHIS: Mide Temperatura, Humedad, Iluminación y Sonido (nivel sonoro).
+[**Dispositivo DTHIS**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/DTHIS)
 
 **Aportes:**
 - Gestión de la documentación.
@@ -30,6 +31,7 @@
 - Réplica de un segundo dispositivo DTHIS para comprobar que ya era factible y viable su reprodución (funcionó correctamente el segundo).
 ------------
 	Dispositivo FactorDePotencia: Mide Factor de potencia y consumo de energía eléctrica.
+[**Dispositivo FactorDePotencia**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/FactorDePotencia)
 
 **Aportes:**
 - Avances en la gestión de documentación.
@@ -38,11 +40,13 @@
 - Diseño del diagrama de conexión.
 ------------
 	Repositorio TemplateSADs: Plantilla para usarlo en la documentación de otros dispositivos.
+[**Repositorio TemplateSADs**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/TemplateSADs)
 
 **Aportes:**
 ###### Formato elegido, previamente investigado para ser adaptado a otros dispositivos.
 ------------
 	 Dispositivo WindSensor: Mide la rapidez del viento.
+[**Dispositivo WindSensor**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/WindSensor)
 
 **Aportes:**
 - Investigación de la implementación del sensor elegido.
@@ -50,6 +54,25 @@
 - Diagrama de conexión.
 - Pruebas de su funcionamiento bajo condiciones necesarias de operación.
 - Montaje de banco de prueba básico.
+------------
+	Dispositivo abb_energia: Equipo industrial que mide corriente eléctrica trifásica, factor de potencia, potencia activa, potencia aparente, potencia reactiva y voltaje.
+[**Dispositivo abb_energia**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/abb_energia)
+
+**Aportes:**
+- Gestión de la documentación (revisión).
+- Asesoría en la documentación.
+------------
+	 Dispositivo sensor_flujo_calor: Mide el flujo de calor de superficies planas con ciertas condiciones.
+[**Dispositivo sensor_flujo_calor**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/sensor_flujo_calor)
+
+**Aportes:**
+- Gestión de la documentación (revisión).
+- Asesoría en la documentación.
+------------
+
+##### Existen otros dispositivos y repositorios que ya no están en mi dominio pero de igual forma participé en la gestión de documentación
+
+
 
 
 
@@ -93,3 +116,4 @@
 ------------
 #### Planos de la carcasa del dispositivo H20
 https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/CAD/BASE_CARCASA_H2O_PLANO.PDF
+
