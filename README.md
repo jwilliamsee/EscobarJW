@@ -71,22 +71,22 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 - Asesoría en la documentación.
 ------------
 
-##### Existen otros dispositivos y repositorios que ya no están en mi dominio pero de igual forma participé en la gestión de documentación
+##### Existen otros dispositivos y repositorios que ya no están en mi dominio pero de igual forma participé en la gestión de documentación.
+------------
 
+####  En la carpeta "Proyecto_Residencia_Profesional" se encuentra el reporte de residencia que entregué al Instituto Tecnológico de Ensenada (ITE) y las evaluacioenes de la misma, por el Dr. Barrios, mi jefe inmediato durante la residencia, también se encuentra la carta de término de residencia emitida por el Instituto de Energías Renovables (IER-UNAM).
+[**Reporte de residencia profesional**](https://github.com/jwilliamsee/EscobarJW/tree/main/Proyecto_ResidenciaProfesional)
 
+------------
 
+####  En la carpeta "Proyecto_ServicioSocial" se encuentran archivos del proyecto que propuse durante el servicio social: "Cálculo de cargas térmicas para la elección adecuada del sistema de aire acondicionado", al ver una oportunidad de mejora en la biblioteca del Instituto Tecnológico de Ensenada por el exceso de calor que se acumulaba y no contar con aire acondicionado.
+#### El objetivo principal del proyecto fue calcular la carga térmica total de la planta baja del centro de información, para diseñar un ambiente de confort, los resultados son cálculos en toneladas de refrigeración para elegir los equipos comerciales de aire acondicionado y las posibles distribuciones de los mismos en la planta baja, se entregó un reporte técnico y la memoria de cálculo para ser considerado al momento de acondicionar la biblioteca y no sobredimensionar en exceso los equipos y que posteriormente represente un exceso en el consumo de energía eléctrica. El proyecto está relacionado con **Refrigeración, aire acondicionado** y **Transferencia de calor**.
 
+**Aportes:**
+- [x] Cálculo de cargas térmicas por infiltración.
+- [x] Cálculo de cargas térmicas por radiación.
+- [x] Cálculo de cargas térmicas por equipos.
 
-## En la misma carpeta pero en la carpeta interna de **sensor_flujo_calor**, en la de **abb_energia** y en todos los demás repositorios que están ahí, se aplicaron el estándar que propuse de documentación (Open-Know-How), previamente investigado para el desarrollo de prototipos electrónicos.
-
-# La intención de la documentación en repositorios es que se lleve un seguimiento adecuado desde la parte de la idea, conceptualizarlo, desarrollarlo, documentarlo y hacerlo físicamente.
-
-# Cabe mencionar que los que están en estás carpetas se siguieron trabajando pero por ser dispositivos en desarrollo del IER-UNAM, son confidenciales hasta cierto punto, por esa razón se encuentran en otra cuenta y no está abierta al público, algo a destacar también es que los dispositivos ya estaban avanzados, yo actualicé, realicé innovaciones y en algunos casos empecé de cero el desarrollo y finalmente apoyé a mis compañeros que estaban haciendo cosas similares en residencia con la documentación en esta plataforma, videos demostrativos, entre otras cosas.
-
-
-## En la carpeta "Proyecto_Residencia_Profesional" se encuentra el reporte de residencia que entregué al Instituto Tecnológico de Ensenada (ITE) y las evaluacioenes de la misma, por el Dr. Barrios, mi jefe inmediato durante la residencia, también se encuentra la carta de término de residencia emitida por el Instituto de Energías Renovables (IER-UNAM).
-
-## En la carpeta "Proyecto_ServicioSocial" se encuentra una memoria (archivos de cálculos) de trabajo con los cálculos de carga térmica de la planta baja del centro de información del Instituto Tecnológico de Ensenada, un reporte de lo que realicé durante el servicio social para sumar horas y finalmente concluir con lo propuesto. Lo realizado está relacionado con **Refrigeración, aire acondicionado** y **Transferencia de calor**.
 
 ## En la carpeta "Trabajo-IER-UNAM" se encuentran los informes que entregué durante dos periodos de trabajo, con aprovación de los encargados del proyecto general, las actividades son las que se presentan arriba, fueron actividades con seguimiento a lo que realicé en la residencia profesional.
 
@@ -117,4 +117,3 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 #### Planos de la carcasa del dispositivo H20
 https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/CAD/BASE_CARCASA_H2O_PLANO.PDF
-
