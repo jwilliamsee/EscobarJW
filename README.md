@@ -86,8 +86,10 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 - [x] Cálculo de cargas térmicas por infiltración.
 - [x] Cálculo de cargas térmicas por radiación.
 - [x] Cálculo de cargas térmicas por equipos.
-
-
+- [x] Cálculo de condiciones de confort con tablas psicométricas.
+- [x] Entrega de memoria de cálculos en Excel.
+- [x] Recomendaciones para el .
+- [x] Entrega de memoria de cálculos en Excel.
 ## En la carpeta "Trabajo-IER-UNAM" se encuentran los informes que entregué durante dos periodos de trabajo, con aprovación de los encargados del proyecto general, las actividades son las que se presentan arriba, fueron actividades con seguimiento a lo que realicé en la residencia profesional.
 
 # Algunos diseños CAD, diagramas electrónicos y Diseño PCB.
@@ -117,3 +119,4 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 #### Planos de la carcasa del dispositivo H20
 https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/CAD/BASE_CARCASA_H2O_PLANO.PDF
+
