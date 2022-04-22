@@ -82,29 +82,34 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ####  En la carpeta "Proyecto_ServicioSocial" se encuentran archivos del proyecto que propuse durante el servicio social: "Cálculo de cargas térmicas para la elección adecuada del sistema de aire acondicionado", al ver una oportunidad de mejora en la biblioteca del Instituto Tecnológico de Ensenada por el exceso de calor que se acumulaba y no contar con aire acondicionado.
 #### El objetivo principal del proyecto fue calcular la carga térmica total de la planta baja del centro de información, para diseñar un ambiente de confort, los resultados son cálculos en toneladas de refrigeración para elegir los equipos comerciales de aire acondicionado y las posibles distribuciones de los mismos en la planta baja, se entregó un reporte técnico y la memoria de cálculo para ser considerado al momento de acondicionar la biblioteca y no sobredimensionar en exceso los equipos y que posteriormente represente un exceso en el consumo de energía eléctrica. El proyecto está relacionado con **Refrigeración, aire acondicionado** y **Transferencia de calor**.
 
+[**Proyecto servicio social**](https://github.com/jwilliamsee/EscobarJW/tree/main/Proyecto_ServicioSocial)
+
 **Aportes:**
 - [x] Cálculo de cargas térmicas por infiltración.
 - [x] Cálculo de cargas térmicas por radiación.
 - [x] Cálculo de cargas térmicas por equipos.
 - [x] Cálculo de condiciones de confort con tablas psicométricas.
 - [x] Entrega de memoria de cálculos en Excel.
-- [x] Recomendaciones para el .
-- [x] Entrega de memoria de cálculos en Excel.
-## En la carpeta "Trabajo-IER-UNAM" se encuentran los informes que entregué durante dos periodos de trabajo, con aprovación de los encargados del proyecto general, las actividades son las que se presentan arriba, fueron actividades con seguimiento a lo que realicé en la residencia profesional.
+- [x] Recomendaciones en la elección de los equipos de aire acondicionado.
 
-# Algunos diseños CAD, diagramas electrónicos y Diseño PCB.
-#### Diseño de máquina para serigrafía
+------------
+# Algunos diseños CAD, diagramas electrónicos y Diseño PCB en los que he trabajado:
+
+#### Diseño de máquina para serigrafía con ecuaciones de movimiento, desarrollado en una especialidad de diseño mecánico (inconclusa).
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa1.PNG)
 ------------
-#### Diagrama de conexión electrónica de dispositivo medidor de iluminación, nivel sonoro, etc.
+#### Diagrama de conexión electrónica del dispositivo THIS, parte del trabajo en el IER-UNAM:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Esquema1.PNG)
 ------------
-#### Pictograma de conexión (conexión animada)
+#### Pictograma de conexión (conexión animada) del mismo dispositivo THIS:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Pictograma.PNG)
 ------------
-#### Diseño de PCB del dispositivo Factor de potencia
+#### Diseño de PCB del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
+------------
+#### Diseño CAD de carcasa del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
 ------------
 #### Diseño CAD de la carcasa del dispositivo H2O
@@ -119,4 +124,3 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 #### Planos de la carcasa del dispositivo H20
 https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/CAD/BASE_CARCASA_H2O_PLANO.PDF
-
