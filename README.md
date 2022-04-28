@@ -119,9 +119,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
 ------------
 #### Diseño CAD de carcasa del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
-![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Imagenes/FP1.PNG)
-------------
-![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Imagenes/FP2.PNG)
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Imagenes/FP.PNG)
 ------------
 #### Diseño CAD de la carcasa del dispositivo H2O
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/BaseCarcasa.PNG)
