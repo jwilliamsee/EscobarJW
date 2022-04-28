@@ -71,7 +71,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 - Asesoría en la documentación.
 ------------
 
-##### Existen otros dispositivos y repositorios que ya no están en mi dominio pero de igual forma participé en la gestión de documentación.
+##### Existen otros dispositivos y repositorios que ya no están en mi dominio, de igual forma estos dispositivos que se presentan se siguieron avanzando y participé en la gestión de documentación, manufactura, diseño, étc.
 ------------
 
 ####  En la carpeta "Proyecto_Residencia_Profesional" se encuentra el reporte de residencia que entregué al Instituto Tecnológico de Ensenada (ITE) y las evaluacioenes de la misma, por el Dr. Barrios, mi jefe inmediato durante la residencia, también se encuentra la carta de término de residencia emitida por el Instituto de Energías Renovables (IER-UNAM).
@@ -106,7 +106,13 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 #### Pictograma de conexión (conexión animada) del mismo dispositivo THIS:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Pictograma.PNG)
 ------------
-#### Diseño de PCB del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
+#### Montaje en pruebas del dispositivo THIS:
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/THIS-EN-PROTO.jpg)
+------------
+#### Diseño del dispositivo THIS:
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/THISPLAQUITAPCB.PNG)
+------------
+#### Rediseño de PCB del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
 ------------
 #### Diseño CAD de carcasa del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
