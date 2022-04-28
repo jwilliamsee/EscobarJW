@@ -121,6 +121,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 #### Diseño CAD de carcasa del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Imagenes/FP.PNG)
 ------------
+### Dispositivo H2O
 #### Diseño CAD de la carcasa del dispositivo H2O
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/BaseCarcasa.PNG)
 ------------
@@ -132,4 +133,3 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/Conexi%C3%B3n_8S%20H2O.PNG)
 ------------
 #### Planos de la carcasa del dispositivo H20
-https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/CAD/BASE_CARCASA_H2O_PLANO.PDF
