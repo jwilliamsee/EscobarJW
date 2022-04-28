@@ -95,11 +95,13 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 # Algunos diseños CAD, diagramas electrónicos y Diseño PCB en los que he trabajado:
 
-#### Diseño de máquina para serigrafía con ecuaciones de movimiento, desarrollado en una especialidad de diseño mecánico (inconclusa).
+### Máquina de serigrafía
+#### Diseño de máquina para serigrafía con ecuaciones de movimiento, desarrollado en una especialidad de diseño mecánico (especialidad inconclusa).
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa1.PNG)
 ------------
+### Dispositivo THIS
 #### Diagrama de conexión electrónica del dispositivo THIS, parte del trabajo en el IER-UNAM:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Esquema1.PNG)
 ------------
@@ -109,14 +111,17 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 #### Montaje en pruebas del dispositivo THIS:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/THIS-EN-PROTO.jpg)
 ------------
-#### Diseño del dispositivo THIS:
+#### Diseño de PCB como complemento del dispositivo THIS:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/THISPLAQUITAPCB.PNG)
 ------------
+### Dispositivo factor de potencia
 #### Rediseño de PCB del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
 ------------
 #### Diseño CAD de carcasa del dispositivo Factor de potencia, parte del trabajo en el IER-UNAM:
-![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Diagramas/pcb_10_fases_easyeda.png)
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Imagenes/FP1.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/FactorDePotencia/Imagenes/FP2.PNG)
 ------------
 #### Diseño CAD de la carcasa del dispositivo H2O
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/BaseCarcasa.PNG)
