@@ -132,7 +132,14 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 #### Diagrama electrónico del dispositivo H2O
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes1/Conexi%C3%B3n_8S%20H2O.PNG)
 ------------
-#### Representación general en el diseño del dispositivo H2O
-![](https://raw.githubusercontent.com/Dispositivos-Edificio-Bioclimatico/DH2O/master/Imagenes/LOGO-H2O.png?token=GHSAT0AAAAAABTJTI6EDT6HJYV3TNWRWCPCYTK4FVQ)
+#### Diseño PCB del dispositivo H2O
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/PCBH2O.PNG)
+------------
+#### Representación general para el diseño del dispositivo H2O
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/LOGO-H2O.png)
 ------------
 #### Planos de la carcasa del dispositivo H20
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/PlanoAH2O.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/PlanoBH2O.PNG)
+------------
