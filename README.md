@@ -143,3 +143,20 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/PlanoBH2O.PNG)
 ------------
+### Simulación de análisis estático
+#### Análisis estático de una caldera
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico2.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico3.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico4.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico5.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico6.PNG)
+------------
+#### Análisis estático de
+![]()
+------------
