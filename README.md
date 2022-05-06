@@ -157,7 +157,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico6.PNG)
 ------------
-#### Análisis estático de
+#### Análisis estático de un sujetador mecánico 
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/Sujetador.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/Sujetador1.PNG)
