@@ -144,7 +144,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/PlanoBH2O.PNG)
 ------------
 ### Trabajando como Freelancer en tiempos libres
-#### Diseño de PCB de un aislador y reductor de voltaje con optoacoplador
+#### Diseño de PCB
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/TOP-SIDE.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/Bottom-Side.PNG)
