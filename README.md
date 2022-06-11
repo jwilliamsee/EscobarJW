@@ -147,7 +147,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 #### Diseño de PCB
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/TOP-SIDE.PNG)
 ------------
-![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/Bottom-Side.PNG)
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/BottomSide.PNG)
 ------------
 ### Simulación de análisis estático
 #### Análisis estático de una caldera
