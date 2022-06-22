@@ -144,10 +144,15 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/PlanoBH2O.PNG)
 ------------
 ### Trabajando como Freelancer en tiempos libres
-#### Diseño de PCB
+#### Diseño de PCB1
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/TOP-SIDE.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/BottomSide.PNG)
+------------
+#### Diseño de PCB2
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/W78E0521.PNG)
+------------
+![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/W78E0524.PNG)
 ------------
 ### Simulación de análisis estático
 #### Análisis estático de una caldera
