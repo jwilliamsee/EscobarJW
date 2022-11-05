@@ -1,5 +1,4 @@
-### Este repositorio será para desarrollar un mini-curso básico para el uso de LabVIEW con arduino, para adquisición de datos, la idea principal será la programación de
-bloques con LabVIEW y como interfaz gráfica una tarjeta de arduino y terminar con ESP para conexión wifi, no se hará nada de programación en Arduino, simplemente se
+### Este repositorio será para desarrollar un mini-curso básico para el uso de LabVIEW con arduino, para adquisición de datos, la idea principal será la programación de bloques con LabVIEW y como interfaz gráfica una tarjeta de arduino y terminar con ESP para conexión wifi, no se hará nada de programación en Arduino, simplemente se
 usará como medio para conexión física de sensores, motores DC, leds, potenciometros, push B, fotoresistencia, entre otros.
 
 ## Qué tiene de interesante este mini-curso?
