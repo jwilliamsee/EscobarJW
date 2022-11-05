@@ -2,4 +2,4 @@
 
 # Cómo se hará?
 
-### Después de obtener archivos de texto con las medidas o con información valiosa para nosotros, se procesará con líneas de código en Python, se mostrará el procedimiento con un paso a paso, archivos muestras como ejemplos y videos del procedimiento.
+### Después de obtener archivos de texto con las medidas o con información valiosa para nosotros, se procesará con líneas de código en Python, esos datos serán mostrados finalmente en gráficas para darle la interpretación que a nosotros más nos covenga, se mostrará el procedimiento con un paso a paso, archivos muestras como ejemplos y videos del procedimiento.
