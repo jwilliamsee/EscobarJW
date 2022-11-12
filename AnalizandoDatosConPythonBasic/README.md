@@ -2,6 +2,7 @@
 ## Recuerden que las herramientas están en la web al alcance de todos, pocos se atreven a procesar todo el trabajo de aprendizaje de nuevas herramientas, así que depende de ustedes hasta donde quieren llegar.
 # El link del curso original lo encuentras dando click aquí: [**Curso original**](https://courses.ansys.com/index.php/courses/intro-to-python/lessons/prerequisites-installation-of-python/)
 
+[![Python_Logo](https://cdn3.emoji.gg/emojis/1850-python-logo.png)](https://emoji.gg/emoji/1850-python-logo)
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/python.png" title="Python" alt="HTML" width="50" height="50"/>&nbsp;
 <img src="" title="sunglasses" alt="HTML" width="50" height="50"/>&nbsp;
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/exel.png" title="Exel" alt="HTML" width="50" height="50"/>&nbsp;
