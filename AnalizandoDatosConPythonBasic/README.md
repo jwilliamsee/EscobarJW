@@ -15,6 +15,5 @@
 # *Indicaciones:*
 #### Para poder escribir textos de procesos o avances de tus códigos debes tener alguno de los editores que a continuación se muestran, puede ser "vs code", "notepad++" o "vim", eso dependerá de tus gustos o de tu familiaridad con alguno, yo te recomiendo que instales *vs code*, con este editor podrás trabajar prácticamente todo lo relacionado a este mini-curso, desde leer o abrir los textos del curso, abrir y visualizar los archivos de datos con extensión .csv sin abrir Excel, apertura de Jupyter notebook para escribir código de python o bien si lo que prefieres es trabajar directamente con líneas de código y estar en contacto con el entorno de programación de "raíz", también funciona como un IDE (Integrated Development Environment) y lo mejor es que desde ahí puedes usar la terminal para instalar librerías de python que usaremos durante el mini-curso, instalar otros IDEs y podrás probar ahí mismo el código que vas escribiendo.
 
-**Visual Studio Code** <img src="" title="vscode" alt="HTML" width="40" height="40"/>&nbsp;
-**Notepad++** <img src="" title="notepad" alt="HTML" width="40" height="40"/>&nbsp;
-**Vim** <img src="" title="vim" alt="HTML" width="40" height="40"/>&nbsp;
+**Visual Studio Code** <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/vscode.png?raw=true" title="vscode" alt="HTML" width="40" height="40"/>&nbsp;**Notepad++** <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/notepad.png?raw=true" title="notepad" alt="HTML" width="40" height="40"/>&nbsp;**Vim** <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/vim.png?raw=true" title="vim" alt="HTML" width="40" height="40"/>&nbsp;
+
