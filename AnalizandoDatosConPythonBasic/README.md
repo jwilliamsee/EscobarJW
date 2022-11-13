@@ -1,6 +1,7 @@
-<center><img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/mylogo.png?raw=true" title="JW" alt="mylogo" height="80" width="80"></center>
+<center><img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/mylogo.png?raw=true" alt="mylogo" height="80" width="80"></center>
 ## Cabe mencionar que este mini-curso es un resumen del curso original de Ansys enfocado al procesamiento de datos, la intención es mostrar el procedimiento de forma más sencilla y en español, para que las personas que quieren empezar y no tienen nada de conocimientos con Python también se animen como yo, a conocer este lenguaje de programación y hacerlo parte de su día a día, mi propósito es aprender con la práctica y al mismo tiempo documentar como estoy avanzando para compartir el conocimiento.
 ## Recuerden que las herramientas están en la web al alcance de todos, pocos se atreven a procesar todo el trabajo de aprendizaje de nuevas herramientas, así que depende de ustedes hasta donde quieren llegar.
+
 # El link del curso original lo encuentras dando click aquí: [**Curso original**](https://courses.ansys.com/index.php/courses/intro-to-python/lessons/prerequisites-installation-of-python/)
 
 <img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" title="Python" alt="HTML" width="50" height="50"/>
