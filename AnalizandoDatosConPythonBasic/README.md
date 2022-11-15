@@ -21,4 +21,9 @@
 
 #### Aquí tienes el link para descargar [**Python**](https://www.python.org/)<img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" title="Python" alt="HTML" width="20" height="20"/>
 
+#### En la terminal de VS Code puedes comprobar si realmente has instalado Python y ver la versión que tienes instalado, simplemente con escribir la palabra Python en tu terminal:
+```python
+Python
+```
+
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/VersionPython.PNG?raw=true" title="VersionPython" alt="HTML" width="800" height="150"/>
