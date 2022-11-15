@@ -17,3 +17,6 @@
 
 **Visual Studio Code** <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/vscode.png?raw=true" title="vscode" alt="HTML" width="40" height="40"/>**Notepad++** <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/notepad.png?raw=true" title="notepad" alt="HTML" width="40" height="40"/>**Vim** <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/vim.png?raw=true" title="vim" alt="HTML" width="40" height="40"/>
 
+#### En este link puedes descargar [**Visual Studio Code**](https://code.visualstudio.com/download)<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/vscode.png?raw=true" title="vscode" alt="HTML" width="40" height="40"/>
+
+#### Aquí tienes el link para descargar [**Python**](https://www.python.org/)<img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" title="Python" alt="HTML" width="40" height="40"/>
