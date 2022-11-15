@@ -21,4 +21,4 @@
 
 #### Aquí tienes el link para descargar [**Python**](https://www.python.org/)<img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" title="Python" alt="HTML" width="20" height="20"/>
 
-<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/VersionPython.PNG?raw=true" title="VersionPython" alt="HTML" width="1000" height="100"/>
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/VersionPython.PNG?raw=true" title="VersionPython" alt="HTML" width="1000" height="200"/>
