@@ -93,7 +93,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 - [x] Recomendaciones en la elección de los equipos de aire acondicionado.
 
 ------------
-# Algunos diseños CAD, diagramas electrónicos y Diseño PCB en los que he trabajado:
+# Algunos diseños CAD, diagramas electrónicos y Diseño PCB en los que he trabajado, existen otros PCB que por confidencialidad de mi empleador freelancer no puedo mostrar:
 
 ### Máquina de serigrafía
 #### Diseño de máquina para serigrafía con ecuaciones de movimiento, desarrollado en una especialidad de diseño mecánico.
@@ -153,6 +153,15 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/W78E0521.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/W78E0524.PNG)
+------------
+#### Diseño de PCB3
+![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.PNG?raw=true)
+------------
+![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.1.PNG?raw=true)
+------------
+![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.2.PNG?raw=true)
+------------
+![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.3.PNG?raw=true)
 ------------
 ### Simulación de análisis estático
 #### Análisis estático de una caldera
