@@ -1,5 +1,7 @@
 <center><img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/mylogo.png?raw=true" alt="mylogo" height="200" width="250"></center>
 
+<center>This information is constantly updated</center>
+
 ## Cabe mencionar que este mini-curso es un resumen del curso original de Ansys enfocado al procesamiento de datos, la intención es mostrar el procedimiento de forma más sencilla y en español, para que las personas que quieren empezar y no tienen nada de conocimientos con Python también se animen como yo, a conocer este lenguaje de programación y hacerlo parte de su día a día, mi propósito es aprender con la práctica y al mismo tiempo documentar como estoy avanzando para compartir el conocimiento.
 ## Recuerden que las herramientas están en la web al alcance de todos, pocos se atreven a procesar todo el trabajo de aprendizaje de nuevas herramientas, así que depende de ustedes hasta donde quieren llegar.
 
