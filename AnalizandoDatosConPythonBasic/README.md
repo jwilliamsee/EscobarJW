@@ -66,7 +66,7 @@ pip install matplotlib
 ```
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pipmatplotlib.png?raw=true" title="pipmatplotlib" alt="HTML" width="800" height="300"/>
 
-### Si en alguno de esos intentos de instalación se presenta algún problema, en su mayoría es por la versión de Python que se está usando, en teoría si se está siguiendo estas indicaciones no debería existir detalles de instalación, pero seguramente algunos de ustedes están usando una versión diferente o una más actualizada, suelen solucionarse con: python -m pip install, la palabra "python" se debe sustituir de acuerdo a la versión que se tenga instalado, por ejemplo para algunas versiones es: "py3", "python3", entre otros, una de esas líneas de código es:
+### Si en alguno de esos intentos de instalación se presenta algún problema, en su mayoría es por la versión de Python que se está usando, en teoría si se está siguiendo estas indicaciones no debería existir detalles de instalación, pero seguramente algunos de ustedes están usando una versión diferente (anteriores), suelen solucionarse con: python -m pip install, la palabra "python" se debe sustituir de acuerdo a la versión que se tenga instalado, por ejemplo para algunas versiones es: "py3", "python3", entre otros, una de esas líneas de código es:
 
 ```
 py3 -m pip install 
