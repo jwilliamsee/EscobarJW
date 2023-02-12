@@ -19,7 +19,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 - [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también me ocupaba en el desarrollo del dispositivo H2O, sólo se tenía el código o programación. [**Dispositivo H2O**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/SensorH2O1)
 - [x] Diseñé la carcasa del dispositivo H2O, diseñé la placa PCB, hice el diagrama de conexión, diagrama de conexión animada (pictograma), modifiqué la programación, generé archivos para impresión en 3D, instructivo de uso del dispositivo, instructivo de ensamble, pruebas del funcionamiento y los archivos entregables.
 ------------
-## Trabajo en el IER-UNAM
+## Parte de mi trabajo en el IER-UNAM
 ##### Durante el tiempo que trabajé en el **Instituto de Energías Renovables** (IER-UNAM), posterior a los 6 meses que estuve en residencia profesional, seguí trabajando en los dispositivos, hasta liberar documentación necesaria en cada uno, modificar archivos trabajados por otros compañeros, pruebas de mando a distancia con una plataforma Internet Of Things (IOT), entre otras cosas.
 #### A continuación una breve descripción de cada dispositivo en los que apoyé y lo que aporté:
 	Dispositivo DTHIS: Mide Temperatura, Humedad, Iluminación y Sonido (nivel sonoro).
