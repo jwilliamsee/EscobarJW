@@ -14,7 +14,7 @@
 ### El propósito de este mini-curso es para el procesamiento de gran cantidad de datos que son adquiridos por ejemplo, en la obtención de medidas con algún sensor en la indutria, alguna prueba que realicemos físicamente pero simplemente nos quedamos con esos datos de medición y no sabemos como interpretarlos, que significado darle o que conclusiones obtener con esos datos almacenados, la intención es poder darle una intrepretación gráfica a todos esos datos.
 # Cómo se hará?
 ### Después de obtener archivos de texto con las medidas o con información valiosa para nosotros, se procesará con líneas de código en Python, esos datos serán mostrados finalmente en gráficas para darle la interpretación que a nosotros más nos convenga, se mostrará el procedimiento con un paso a paso, archivos muestras como ejemplos y videos del procedimiento.
-### En la carpeta "filedata" se encontrarán archivos de excel para usarlos como ejemplo, se irán agregando datos de sensores simulados o físicos en forma de archivos de textos.
+### En la carpeta "filedata" se encontrarán archivos con extensión .csv para usarlos como ejemplo, se irán agregando datos de sensores simulados o físicos en forma de archivos de textos.
 
 # *Indicaciones:*
 #### Para poder escribir textos de procesos o avances de tus códigos debes tener alguno de los editores que a continuación se muestran, puede ser "vs code", "notepad++" o "vim", eso dependerá de tus gustos o de tu familiaridad con alguno, yo te recomiendo que instales *vs code*, con VS Code podrás trabajar prácticamente todo lo relacionado a este mini-curso, desde leer o abrir los textos del curso, abrir y visualizar los archivos de datos con extensión .csv sin abrir Excel, apertura de Jupyter notebook para escribir código de python o bien si lo que prefieres es trabajar directamente con líneas de código y estar en contacto con el entorno de programación de "raíz", también funciona como un IDE (Integrated Development Environment) y lo mejor es que desde ahí puedes usar la terminal para instalar librerías de python que usaremos durante el mini-curso, instalar otros IDEs y podrás probar ahí mismo el código que vas escribiendo.
@@ -66,10 +66,27 @@ pip install matplotlib
 ```
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pipmatplotlib.png?raw=true" title="pipmatplotlib" alt="HTML" width="800" height="300"/>
 
-### Si en alguno de esos intentos de instalación se presenta algún problema, en su mayoría es por la versión de Python que se está usando, en teoría si se está siguiendo estas indicaciones no debería existir detalles de instalación, pero seguramente algunos de ustedes están usando una versión diferente (anteriores), suelen solucionarse con: python -m pip install, la palabra "python" se debe sustituir de acuerdo a la versión que se tenga instalado, por ejemplo para algunas versiones es: "py3", "python3", entre otros, una de esas líneas de código es:
+### Si en alguno de esos intentos de instalación se presenta algún problema, en su mayoría es por la versión de Python que se está usando, en teoría si se está siguiendo estas indicaciones no debería existir detalles de instalación, pero seguramente algunos de ustedes están usando una versión diferente o una más actualizada, suelen solucionarse con: python -m pip install, la palabra "python" se debe sustituir de acuerdo a la versión que se tenga instalado, por ejemplo para algunas versiones es: "py3", "python3", entre otros, una de esas líneas de código es:
 
 ```
 py3 -m pip install 
 ```
 
-### Si aún sustituyendo esas líneas iniciales no se encontró solución, de acuerdo a la versión de Python instalado, se puede encontrar la solución [**aquí**](https://packaging.python.org/tutorials/installing-packages/#requirements-for-installing-packages).
+### Si aún sustituyendo esas líneas iniciales no se encontró solución, de acuerdo a la versión de Python instalado, se puede enconstrar la solución [**aquí**](https://packaging.python.org/tutorials/installing-packages/#requirements-for-installing-packages).
+
+### A continuación vamos a instalar "Ipython", Ipython es una herramienta de Python que nos sirve para escribir código y desde ahí podemos ejecutar el mismo código, en pocas palabras, Ipython es un intérprete de código escrito en python, en inglés literalemente significa "Interactive python", a diferencia de otros intérpretes, en Ipython puedes ir probando tus líneas de código casi al instante, mientras que con otros, necesitarías el editor de texto  para escribir código y aparte una terminal para ejecutar tu código y probar si funciona, para empezar está muy bien, la intención de darte a conocer Ipython es que vayas probando líneas de código básico, se verá algo similar a ésto:
+
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/InstallIpython.PNG?raw=true" title="InstallIpython" alt="HTML" width="800" height="300"/>
+
+### La línea de código para instalar Ipython es:
+
+```
+pip install ipython 
+```
+
+
+### En mi caso al realizar la instalación me indicó al final que había una nueva versión de "pip", pip es un gestor de instalación o administrador de instalación que por default usa Python, por eso me indicó que había una nueva versión, lo que hice fué hacer caso a la indicación y lo actualicé:
+
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pipversionnew.PNG?raw=true" title="NewVersionPip" alt="HTML" width="800" height="300"/>
+
+### En mi caso, por alguna razón extraña (actualizaré cuando conozca las razones), cuando requiero ejecutar ipython en una terminal cmd de Windows no me deja interactuar con ipython, investigué otra opción y es la siguiente:
