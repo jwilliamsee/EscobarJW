@@ -154,15 +154,6 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/Freelancer/W78E0524.PNG)
 ------------
-#### Diseño de PCB3
-![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.PNG?raw=true)
-------------
-![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.1.PNG?raw=true)
-------------
-![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.2.PNG?raw=true)
-------------
-![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pcb4.3.PNG?raw=true)
-------------
 ### Simulación de análisis estático
 #### Análisis estático de una caldera
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/SensorH2O1/Imagenes/AnalisisEstatico.PNG)
