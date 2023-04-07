@@ -89,4 +89,18 @@ pip install ipython
 
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/pipversionnew.PNG?raw=true" title="NewVersionPip" alt="HTML" width="800" height="300"/>
 
-### En mi caso, por alguna razón extraña (actualizaré cuando conozca las razones), cuando requiero ejecutar ipython en una terminal cmd de Windows no me deja interactuar con ipython, investigué otra opción y es la siguiente:
+### En mi caso, por alguna extraña razón (actualizaré cuando conozca las razones), cuando requiero ejecutar ipython en una terminal cmd de Windows no me deja interactuar con ipython, investigué otra opción y es la siguiente:
+
+### Realmente no es otra opción, se realiza como a continuación les muestro, seguramente hay otras formas y se puede llegar al mismo punto, recordemos que el objetivo de esta instrucción es para instalar el intérprete interactivo de Python: **"Ipython"**.
+
+#### Nos dirigimos al buscador de Windows y buscamos "PowerShell", el nombre completo es "Windows PowerShell", le damos click al que tiene el logo o símbolo de sistema y nos abre una especie de cmd, en pocas palabras es un administrador de sistema en la que se ejecuta líneas de código para gestionar gran cantidad de información y es usado por DevOps o desarrolladores, no es común que una persona use estas herramientas pero considero que aprender un lenguaje de programación debería ser obligatorio en las escuelas, sin importar que carrera universitaria o técnica se estudia. A continuación se muestra una imagen como la que ustedes deberán ver:
+
+![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/Powershell.PNG?raw=true)
+
+#### Después de haber instalado "ipython", podemos escribir la línea de código con el nombre y nos abrirá lo que queremos ver, el intérprete estará funcionando y listo para probar nuestras líneas de código para pruebas rápidas.
+
+![](https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/Powershell1.PNG?raw=true)
+
+### Ahora como ya tenemos instalado ipython podemos ejecutarlo en una terminal cmd como la que todos conocemos y hemos usado en algún momento.
+
+#This page is updating constantly 
