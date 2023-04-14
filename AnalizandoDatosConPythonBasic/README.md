@@ -103,4 +103,5 @@ pip install ipython
 
 ### Ahora como ya tenemos instalado ipython podemos ejecutarlo en una terminal cmd como la que todos conocemos y hemos usado en algún momento.
 
+### Este curso lo trabajo en mis tiempos libres, hay avances constantes.
 #This page is updating constantly 
