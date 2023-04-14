@@ -9,3 +9,4 @@
   4. Windsensor4: código trabajado en 
 
 ##### Para la opción que se elija, encontrarán pequeñas diferencias, la que se ha trabajado en el IER por Miguel Huertero es con el que debería trabajarse, debido a que se hicieron pruebas según las condiciones y necesidades para las que realmente se ocupan y si se decide trabajar con otra de las 2 restantes, será desición propia.
+actualice
