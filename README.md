@@ -1,26 +1,32 @@
 # EscobarJW
-Todo el texto no está justificado porque el formato Markdown usado en esta platoforma no lo permite. 
+Todo el texto no está justificado porque el formato Markdown usado en esta plataforma no lo permite, en algunos párrafos si está justificado porque uso html pero en algunas estructuras de texto aquí presentadas no es posible aplicarlo.
 ### Información.
 
-#### En la carpeta "**Certificado-Ingeniería**", está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial.
+#### En la carpeta "**Certificado-Ingeniería**"
+
+<p align="justify">Está el certificado de estudios de la carrera universitaria en Ingeniería Electromecánica con especialidad en la industria aeroespacial, específicamente enfocado a diseño CAD y electrónica.</p>
+
 ------------
-#### En la carpeta "**LoQueHiceEn-IER-UNAM**", se encuentran 7 dispositivos electrónicos en los que participé durante la residencia profesional, lo planteado inicialmente era establecer una forma de documentar los dispositivos electrónicos que se tenían avanzados, con un estándar de documentación que se adaptara a etapas de desarrollo enfocado a documentar todo lo que se había hecho y faltaba por hacer en cada uno. El problema a solucionar era que cuando otros estudiantes llegaban para hacer residencias y avanzaban en alguno de los dispositivos, no dejaban documentación completa de lo que avanzaban o no entregaban algo de lo que hacían.
+#### En la carpeta "**LoQueHiceEn-IER-UNAM**". 
+<p align="justify">Se encuentran 7 dispositivos electrónicos en los que participé durante la residencia profesional y posteriormente con un contrato laboral para seguir colaborando, lo planteado inicialmente era establecer una forma de documentar los dispositivos electrónicos que se tenían avanzados, con un estándar de documentación que se adaptara a etapas de desarrollo enfocado a documentar todo lo que se había hecho y faltaba por hacer en cada uno. El problema a solucionar era que cuando otros estudiantes llegaban para hacer residencias o prácticas profesionales y avanzaban en alguno de los dispositivos, no dejaban documentación completa de lo que avanzaban o no entregaban algo de lo que hacían, los diagramas estaban incompletos o estaban pero no los archivos fuentes para editar y modicar, los códigos de programación no estaban para editarlos y se tenía que contactar al estudiante que lo empezó y con suerte rescatarlo para futuras mejoras, el hardware se tenía que reconectar y reestructurar y pasar por los mismos errores que quizá pasó el primer estudiante en las primeras versiones y a todo eso con el estándar de documentación que investigué y finalmentente elegí con algunas adaptaciones necesarias para lo que se requería, hicieron que mis aportaciones fueran las siguientes:.</p>
+
 	Solución y aportes propuestos por mi:
 - [x] Investigación y elección del estándar de documentación para los dispositivos electrónicos del IER-UNAM.
-- [x] Elección de la forma de documentación adaptada al estándar "Open-Know-How".
+- [x] Elección de la forma de documentación en cuanto a Hardware adaptada al estándar "Open-Know-How".
 [**Open-Know-How**](https://www.internetofproduction.org/open-know-how)
-- [x] Gestionar la documentación en todos los dispositvos hechos y por hacer para el control y cumplimiento de cada avance hechos por otros compañeros.
+- [x] Gestionar la documentación en todos los dispositvos hechos y por hacer, para el control y cumplimiento de cada avance hechos por otros compañeros.
 - [x] Apliqué el estándar de documentación a un dispositivo como prueba y posteriormente se usó como ejemplo para que los otros compañeros lo aplicaran al dispositivo que estaban desarrollando.
 - [x] Instructivos para documentar sus avances en esta plataforma en forma de repositorio por cada dispositivo desde Windows y Linux.
 - [x] Apoyo de todo el proceso para documentar, con videos del paso a paso.
 [**Serie de videos hechos por mi**](https://github.com/jwilliamsee/DocumentarGithub/blob/main/VideosDocGit/LinksDeVideos.md)
 
-**Cabe mencionar que en cada dispositivo participó más de una persona, yo participé en todos para verificar que se aplicara lo que propuse y apoyar en las dudas de como documentar con el estándar elegido.**
+**Cabe mencionar que en cada dispositivo participó más de una persona, yo participé en todos para verificar que se aplicara lo que propuse, apoyar en las dudas de como documentar con el estándar elegido, probar y modificar código básico en Python, C++ y Micropython (yo no programaba), mis participaciones también se centraban en la parte del Hardware electrónico.**
 - [x] Al mismo tiempo de la investigación, desarrollo, aplicación del estándar y seguimiento a cada dispositivo, también me ocupaba en el desarrollo del dispositivo H2O, sólo se tenía el código o programación. [**Dispositivo H2O**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/SensorH2O1)
 - [x] Diseñé la carcasa del dispositivo H2O, diseñé la placa PCB, hice el diagrama de conexión, diagrama de conexión animada (pictograma), modifiqué la programación, generé archivos para impresión en 3D, instructivo de uso del dispositivo, instructivo de ensamble, pruebas del funcionamiento y los archivos entregables.
 ------------
 ## Parte de mi trabajo en el IER-UNAM
-##### Durante el tiempo que trabajé en el **Instituto de Energías Renovables** (IER-UNAM), posterior a los 6 meses que estuve en residencia profesional, seguí trabajando en los dispositivos, hasta liberar documentación necesaria en cada uno, modificar archivos trabajados por otros compañeros, pruebas de mando a distancia con una plataforma Internet Of Things (IOT), entre otras cosas.
+<p align="justify">Durante el tiempo que trabajé en el **Instituto de Energías Renovables** (IER-UNAM), posterior a los 6 meses que estuve en residencia profesional, seguí trabajando en los dispositivos, hasta liberar documentación necesaria en cada uno, modificar archivos trabajados por otros compañeros, pruebas de mando a distancia con una plataforma Internet Of Things (IOT), entre otras cosas.<p/>
+
 #### A continuación una breve descripción de cada dispositivo en los que apoyé y lo que aporté:
 	Dispositivo DTHIS: Mide Temperatura, Humedad, Iluminación y Sonido (nivel sonoro).
 [**Dispositivo DTHIS**](https://github.com/jwilliamsee/EscobarJW/tree/main/LoQueHiceEn-IER-UNAM/DTHIS)
