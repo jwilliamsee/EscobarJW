@@ -103,5 +103,13 @@ pip install ipython
 
 ### Ahora como ya tenemos instalado ipython podemos ejecutarlo en una terminal cmd como la que todos conocemos y hemos usado en algún momento.
 
+#### Después de haber instalado ipython y saber que ya tenemos nuestras bibliotecas listas para ser usadas, podemos empezar con revisiones rápidas, nos dirigimos a una terminal, puede ser cmd, Windows PowerShell o desde una terminal en Visual Studio Code, en nuestro caso usaremos nuestras primeras pruebas con el PowerShell de Windows.
+#### Cuando entramos a la terminal tenemos que buscar la carpeta donde estan nuestros datos a analizar, el archivo con el que trabajaremos, sí o sí tenemos que trabajar dentro de la carpeta que contiene el archivo, de lo contrario nunca podremos manipular el archivo. Usamos cd seguido del nombre de nuestra carpeta, por ejemplo cuando abrimos nuestra terminal nos dirige al espacio con el nombre de usuario, en mi caso es JWilliams_E_E, desde ahí tengo que buscar mi carpeta donde contiene mi archivo con el que trabajaré y avanzamos con cd, cd Desktop, cd nombre-de-mi-carpeta, cd hasta-ubicarlo y en cuando llegamos a la ubicación del archivo ejecutamos ipython.
+#### Después de entrar a ipython, importamos numpy para hacer matrices y funciones matemáticas, sin numpy no podríamos hacerlo.
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/Ipython123.PNG?raw=true" title="NewVersionPip" alt="HTML" width="800" height="300"/>
+
+#### Lo que comentaba anteriormente lo pueden ver en la imagen, se usa el cd para ir nuestras carpetas y cuando llegamos a la carpeta que contiene el archivo, ejecutamos ipython, ahora explicaré los números 1, 2 y 3 que aparecen en la imagen de color rojo, el núm. 1 "numpy.loadtxt()", eso significa que estamos llamando un archivo de texto, el núm. 2 se refiere al nombre del archivo que debe ir dentro de los paréntesis y con comilla simple " ' ", la coma la usamos para separar una instrucción de otra, en este caso como estamos haciendo uso del numpy.loadtxt le indicamos que los datos que se nos presentan en el archivo llamado 'experiment01.csv' se delimiten con una coma " , " (núm. 3), dicho de otra forma es algo como: numpy.loadtxt por favor abre el archivo de texto que se llama experiment01.csv y los datos que están ahí separalo con una coma.
+
 ### Este curso lo trabajo en mis tiempos libres, hay avances constantes.
 #This page is updating constantly 
+
