@@ -102,7 +102,7 @@ Todo el texto no está justificado porque el formato Markdown usado en esta plat
 # Algunos diseños CAD, diagramas electrónicos y Diseño PCB en los que he trabajado, existen otros PCB que por confidencialidad de mi empleador freelancer no puedo mostrar:
 
 ### Máquina de serigrafía
-#### Diseño de máquina para serigrafía con ecuaciones de movimiento, desarrollado en una especialidad de diseño mecánico.
+#### Diseño de máquina para serigrafía con ecuaciones de movimiento.
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa.PNG)
 ------------
 ![](https://github.com/jwilliamsee/EscobarJW/blob/main/LoQueHiceEn-IER-UNAM/DTHIS/Imagenes/Serigraf%C3%ADa1.PNG)
